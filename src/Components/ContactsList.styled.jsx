@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const List = styled.ol`
-  border: 2px solid #000;
+  border: 1px solid #000;
   border-radius: 8px;
   padding: 20px 20px;
 `;
@@ -13,7 +13,7 @@ export const Item = styled.li`
 `;
 export const DeleteButton = styled.button`
   border: 1px solid #000;
-  background-color: #cd5c5c;
+  background-color: #2E8B57;
   border-radius: 5px;
   cursor: pointer;
   margin-left: 20px;

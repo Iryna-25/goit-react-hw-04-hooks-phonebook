@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 
 export const Header2 = styled.h2`
-  font-style: italic;
+  font-style: Arial;
   font-size: 28px;
 `;
 export const SearchInput = styled.input`
-  border: 2px solid #000;
-  border-radius: 7px;
+  border: 1px solid #000;
+  border-radius: 5px;
   width: 35%;
   height: 20px;
   display: block;
